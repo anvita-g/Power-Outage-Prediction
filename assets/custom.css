@@ -1,0 +1,48 @@
+h3, h4 {
+    font-weight: 800;
+  }
+
+  h1#outage-duration-prediction-and-cause-analysis {
+    display: none;
+  }
+
+  h1{
+    font-weight: 1000;
+  }
+
+  table thead {
+    background-color: #e0f0ff;
+    color: #003366; 
+    font-weight: bold;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  table th, table td {
+    border: 1px solid #cce0f5;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  
+  table tbody tr:nth-child(even) {
+    background-color: #f4faff;
+  }
+
+  iframe[src="assets/model-comparison.html"] {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    padding-bottom: 0; 
+    margin-bottom: 0;
+    border: none; 
+  }
+  
+  div.content.is-small.has-text-centered {
+    display: none;
+  }
+  
