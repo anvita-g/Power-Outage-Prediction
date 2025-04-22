@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Power-Outage-Prediction",
+  "short_name": "Power-Outage-Prediction",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
