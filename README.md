@@ -246,4 +246,4 @@ The **Random Forest model** outperformed the baseline linear regression model wi
 </div>
 
 
-<link rel="stylesheet" href="assets/custom.css">
+<link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">

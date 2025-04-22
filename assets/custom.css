@@ -1,14 +1,8 @@
-h3, h4 {
-    font-weight: 800;
-  }
 
   h1#outage-duration-prediction-and-cause-analysis {
     display: none;
   }
 
-  h1{
-    font-weight: 1000;
-  }
 
   table thead {
     background-color: #e0f0ff;

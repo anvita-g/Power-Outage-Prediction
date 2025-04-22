@@ -1,15 +1,3 @@
 remote_theme: "chrisrhymes/bulma-clean-theme@v0.14.0"
 plugins:
   - jekyll-remote-theme
-
-
-sass:
-  style: compressed
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-      css: "/assets/custom.css"
