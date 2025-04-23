@@ -2,7 +2,7 @@
 
 
 <div style="text-align: right; font-size: 14px; color: #555;">
-  Created by <a href="https://github.com/anvitag" target="_blank">Anvita Gollu</a> |
+  Created by <a href="https://github.com/anvita-g" target="_blank">Anvita Gollu</a> |
   <a href="https://github.com/anvita-g/Power-Outage-Prediction" target="_blank">GitHub Repo</a> | EECS 398
 </div>
 
@@ -241,7 +241,7 @@ The **Random Forest model** outperformed the baseline linear regression model wi
 <hr>
 
 <div style="text-align: center; font-size: 14px; color: #666; padding: 20px;">
-  Created by <a href="https://github.com/anvitag" target="_blank">Anvita Gollu</a> |
+  Created by <a href="https://github.com/anvita-g" target="_blank">Anvita Gollu</a> |
   <a href="https://github.com/anvita-g/Power-Outage-Prediction" target="_blank">Project Repository</a>
 </div>
 
